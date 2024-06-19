@@ -1,4 +1,6 @@
 ---
+options:
+  prefix: dump_
 files:
   - 5.5p
   - cpu_5j.bin
